@@ -259,7 +259,7 @@ p {
 
     .reaction-div, .memory-div, .verbal-div, .visual-div {
         background-color: white;
-        width: 50vh;
+        width: 330px;
         margin-top: 25px;
         height: 11%;
         border-radius: 10px;
